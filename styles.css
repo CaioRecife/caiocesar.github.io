@@ -1,0 +1,36 @@
+body{
+}
+
+#colorbody{
+    background-color: #ddd;
+}
+
+header{
+    position: fixed;
+    height: 80px;
+    width: 100%;
+    top: 0;
+    left: 0;
+
+    box-shadow: 0px 5px 50px 10px rgba(0,0,0,0.5);
+}
+
+#color{
+    background-color: #fff;
+}
+
+#nightmodeimg{
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 90%;
+    cursor: pointer;
+    display: block;
+}
+
+#sunmodeimg{
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 90%;
+    cursor: pointer;
+    display: none;
+}
